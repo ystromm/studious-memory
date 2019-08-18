@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Documents/dev/furry-invention" value="1482656466000" />
+        <entry key="$PROJECT_DIR$/../learn-selenium" value="2967389520000" />
+        <entry key="$PROJECT_DIR$/../learn-spring-contract" value="1487621785000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../ebs/UserPreferences3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../learn-cdk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../learn-cdp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../learn-vlingo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../learning-axon" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../op/tdd-lab" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../svt/aspera-integration" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../svt/content-review-gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../svt/delivery-orders" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../svt/delivery-orders-axon/delivery-orders" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../svt/pacmam/packages/vision-adapter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../svt/test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../svt/vidispine-integration" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../svt/vision-adapter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../svt/vision-integration" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../todoyourself" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../xtc-london-test-commit-revert" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="LUxwjilx" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../jfokus/koober" value="10404692011000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
